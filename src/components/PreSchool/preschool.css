@@ -1,0 +1,22 @@
+.school{
+
+   display: flex;
+   margin-top: 7%;
+   width: 70%;
+   height: 70%;
+   border-radius: 20px;
+   justify-content: center;
+   margin-left: 15%;
+   margin-bottom: 10%;
+   background-color: #E0FFFF;
+}
+
+.school p {
+
+   margin: 5%;
+}
+
+.school h3{
+
+   margin: 5%;
+}
